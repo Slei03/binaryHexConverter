@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BitConverter</string>
+    <string name="ask_num">Input a decimal number from 0-255</string>
+    <string name="input">0-255</string>
+    <string name="submit">Submit</string>
+
+</resources>
